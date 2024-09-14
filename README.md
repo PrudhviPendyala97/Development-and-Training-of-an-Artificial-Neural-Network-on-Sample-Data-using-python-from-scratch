@@ -1,5 +1,5 @@
 # Soft_Computing_Project
-Development and Training of an Artificial Neural Network with Backpropagation for Predictive Modeling on Sample Data.
+Development and Training of an Artificial Neural Network on Sample Data using Python from Scratch.
 
 Developed a neural network with 3 input neurons, 10,000 hidden neurons, and 1 output neuron, using forward propagation, backpropagation, and mean squared error for training.
 
